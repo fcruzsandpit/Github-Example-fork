@@ -1,0 +1,6 @@
+Suchi is one of the mental of IM's 
+
+
+if {
+     she eat more she will be panda = "Ture" ; 
+}else ( false )
